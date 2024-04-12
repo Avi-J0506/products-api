@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Laptop XYZ",
+      "price": 1200,
+      "feature": true,
+      "rating": 4.5,
+      "company": "apple"
+    },
+    {
+      "name": "Smartphone ABC",
+      "price": 800,
+      "feature": false,
+      "rating": 4.2,
+      "company": "samsung"
+    },
+    {
+      "name": "Monitor LMN",
+      "price": 300,
+      "feature": true,
+      "rating": 4.0,
+      "company": "dell"
+    },
+    {
+      "name": "Tablet PQR",
+      "price": 500,
+      "feature": false,
+      "rating": 4.7,
+      "company": "mi"
+    },
+    {
+      "name": "Keyboard 123",
+      "price": 50,
+      "feature": true,
+      "rating": 4.5,
+      "company": "apple"
+    },
+    {
+      "name": "Mouse XYZ",
+      "price": 30,
+      "feature": false,
+      "rating": 4.0,
+      "company": "samsung"
+    },
+    {
+      "name": "Headphones ABC",
+      "price": 100,
+      "feature": true,
+      "rating": 4.2,
+      "company": "dell"
+    },
+    {
+      "name": "Printer LMN",
+      "price": 200,
+      "feature": false,
+      "rating": 4.5,
+      "company": "mi"
+    },
+    {
+      "name": "Camera PQR",
+      "price": 700,
+      "feature": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "Smartwatch 123",
+      "price": 250,
+      "feature": false,
+      "rating": 4.0,
+      "company": "samsung"
+    },
+    {
+      "name": "Speaker XYZ",
+      "price": 150,
+      "feature": true,
+      "rating": 4.3,
+      "company": "dell"
+    },
+    {
+      "name": "External Drive ABC",
+      "price": 80,
+      "feature": false,
+      "rating": 4.5,
+      "company": "mi"
+    },
+    {
+      "name": "Router LMN",
+      "price": 100,
+      "feature": true,
+      "rating": 4.1,
+      "company": "apple"
+    },
+    {
+      "name": "Gaming Console PQR",
+      "price": 400,
+      "feature": false,
+      "rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "Scanner 123",
+      "price": 150,
+      "feature": true,
+      "rating": 4.2,
+      "company": "dell"
+    },
+    {
+      "name": "Projector XYZ",
+      "price": 600,
+      "feature": false,
+      "rating": 4.7,
+      "company": "mi"
+    },
+    {
+      "name": "Wireless Earbuds ABC",
+      "price": 120,
+      "feature": true,
+      "rating": 4.4,
+      "company": "apple"
+    },
+    {
+      "name": "Webcam LMN",
+      "price": 70,
+      "feature": false,
+      "rating": 4.0,
+      "company": "samsung"
+    },
+    {
+      "name": "Graphics Card PQR",
+      "price": 300,
+      "feature": true,
+      "rating": 4.8,
+      "company": "dell"
+    },
+    {
+      "name": "Laptop Bag 123",
+      "price": 40,
+      "feature": false,
+      "rating": 4.5,
+      "company": "mi"
+    }
+  ]
+  
