@@ -1,9 +1,12 @@
-const getAllProducts = async(req, res) =>{
-    res.status(200).json({msg: "I am getAllProducts"});
-}
+const Product = require("../models/productModel");
 
-const getAllProductsTesting = async(req, res) =>{
-    res.status(200).json({msg: "I am getAllProductsTesting"});
-}
+const getAllProducts = async (req, res) => {
+  const myData = await Product.find({company: "apple"});
+  res.status(200).json({ myData });
+};
 
-module.exports = {getAllProducts, getAllProductsTesting};
+const getAllProductsTesting = async (req, res) => {
+  res.status(200).json({ msg: "I am getAllProductsTesting" });
+};
+
+module.exports = { getAllProducts, getAllProductsTesting };
